@@ -1,0 +1,16 @@
+﻿  textfile.cpp
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\textfile.cpp(13): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\textfile.cpp(13): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Source.cpp
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(187): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(189): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(191): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(193): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(195): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(197): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(199): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(201): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\downloads\imdcgp208-programming-for-graphics-assignment-2-ochamberlai2-master\programming for graphics - assignment 2\graphics\source.cpp(203): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Graphics.vcxproj -> C:\Users\Administrator\Downloads\imdcgp208-programming-for-graphics-assignment-2-Ochamberlai2-master\Programming for graphics - assignment 2\Debug\Graphics.exe
+  Graphics.vcxproj -> C:\Users\Administrator\Downloads\imdcgp208-programming-for-graphics-assignment-2-Ochamberlai2-master\Programming for graphics - assignment 2\Debug\Graphics.pdb (Partial PDB)
